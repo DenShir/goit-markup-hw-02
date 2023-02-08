@@ -112,9 +112,8 @@ ul {
   letter-spacing: 0.02em;
   color: var(--dark);
 }
-.directions-info {
-  font-family: 'Roboto' sans-serif;
-  font-style: normal;
+.direction-info {
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -142,7 +141,6 @@ ul {
   background: var(--light);
 }
 .our-team {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.111;
   text-align: center;
